@@ -1,2 +1,4 @@
 Go To Work
 Go Home
+Make GUI
+add close button
