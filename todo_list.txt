@@ -1,4 +1,3 @@
 Go To Work
 Go Home
-Make GUI
-Add Edit Button
+Make Dinner
