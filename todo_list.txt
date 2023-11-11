@@ -2,5 +2,3 @@ Go To Work
 Go Home
 Make GUI
 Add Edit Button
-Add a new todo
-Edit a todo item
