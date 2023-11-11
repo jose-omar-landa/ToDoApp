@@ -1,4 +1,8 @@
 from modules import functions
+import time
+
+now = time.strftime("%b %d, %Y %H:%M:%S")
+print(now)
 
 while True:
     user_action = input("Type add, show, edit, complete, or exit: ""Type add, show, or exit: ")
